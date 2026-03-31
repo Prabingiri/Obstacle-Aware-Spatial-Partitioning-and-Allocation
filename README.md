@@ -9,6 +9,14 @@ This repository contains two main components:
 
 Together, these components support region assignment for mobile surveillance and response settings in obstacle-rich environments, with emphasis on worst-case response behavior, hierarchical fairness, and practical spatial decomposition.
 
+
+
+### OA-BAR: obstacle-aware hierarchical decomposition
+![OA-BAR partitioning](figures/oabar_partition.png)
+
+### RBA: hierarchy-aware apportionment over the OA-BAR tree
+![RBA hierarchy tree](figures/rba_tree.png)
+
 ## Repository Structure
 
 ```text
