@@ -15,7 +15,12 @@ Together, these components support region assignment for mobile surveillance and
 src/
   oabar/
   rba/
+  baselines/
+  common/
+  utils/
 experiments/
   oabar/
   rba/
+data/
 figures/
+scripts/
