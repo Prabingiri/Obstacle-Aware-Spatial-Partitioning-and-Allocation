@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "OA-BAR & RBA: Obstacle-Aware Spatial Partitioning and Allocation"
+version: 1.0.0
+date-released: 2026-03-30
+authors:
+  - family-names: "Giri"
+    given-names: "Prabin"
+    affiliation: "Iowa State University"
+    email: "pgiri@iastate.edu"
+  - family-names: "Trajcevski"
+    given-names: "Goce"
+    affiliation: "Iowa State University"
+    email: "gocet25@iastate.edu"
+repository-code: "https://github.com/Prabingiri/Obstacle-Aware-Spatial-Partitioning-and-Allocation"
+keywords:
+  - spatial partitioning
+  - obstacle avoidance
+  - worst-case response time
+  - binary space partitioning
+  - resource allocation
+  - UAV fleet
